@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1644104516 source:c:\users\hp\desktop\oop_c++\arrays_c++\main.cpp
+	<iostream>
+	<iomanip>
+	<cmath>
+	<math.h>
+	<string.h>
+
