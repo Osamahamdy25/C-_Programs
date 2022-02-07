@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1644195010 source:c:\users\hp\desktop\oop_c++\constructor\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<algorithm>
+	<string.h>
+
