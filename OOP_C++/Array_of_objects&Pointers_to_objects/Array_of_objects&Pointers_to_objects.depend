@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1644280864 source:c:\users\hp\desktop\oop_c++\array_of_objects&pointers_to_objects\main.cpp
+	<iostream>
+	<string.h>
+
